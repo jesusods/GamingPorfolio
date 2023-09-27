@@ -11,3 +11,7 @@ ul > ul{
     border: none;
     padding: auto; 
 }
+img{
+    width: 30vw;
+    height: 30vh;
+}
